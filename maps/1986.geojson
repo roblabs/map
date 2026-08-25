@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pineway No Host Dinner",
+        "description": "6 pm, Fri  Aug 21",
+        "marker-color": "#0020DF",
+        "rgb": ""
+      },
+      "geometry": {
+        "coordinates": [-122.84837746875357, 44.49238838346608],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tallman Brewing & Food Trucks",
+        "description": "6 pm, Sat  Aug 22",
+        "marker-color": "#0020DF",
+        "rgb": ""
+      },
+      "geometry": {
+        "coordinates": [-122.90511979, 44.52637863],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kuhn Cinema",
+        "description": "7 pm, Thu  Aug 20",
+        "marker-color": "#0020DF",
+        "rgb": ""
+      },
+      "geometry": {
+        "coordinates": [-122.90749661170088, 44.53945434595124],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Century Park Picnic",
+        "description": "12 p, Sun  Aug 23",
+        "marker-color": "#0020DF",
+        "rgb": ""
+      },
+      "geometry": {
+        "coordinates": [-122.91360187840947, 44.542736631299846],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sugar Vibes",
+        "description": "9 am, Fri  Aug 21",
+        "marker-color": "#6E1929",
+        "rgb": ""
+      },
+      "geometry": {
+        "coordinates": [-122.90738555260252, 44.53863958966764],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Mill Trail from Gills Landing",
+        "description": "9 am, Sat  Aug 22",
+        "marker-color": "#0020df",
+        "rgb": ""
+      },
+      "geometry": {
+        "coordinates": [-122.8894933528681, 44.53748303488658],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pineway Tee",
+        "description": "10 am, Fri  Aug 21",
+        "marker-color": "#6e1929",
+        "rgb": "RGBA(110, 25, 41, 1)"
+      },
+      "geometry": {
+        "coordinates": [-122.84910189349125, 44.49194315187282],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pineway Swing & Chat",
+        "description": "11 am, Fri  Aug 21",
+        "marker-color": "#0020DF",
+        "rgb": "RGBA(0, 32, 223, 1)"
+      },
+      "geometry": {
+        "coordinates": [-122.84937015239514, 44.49107442594655],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bates Bridge",
+        "description": "",
+        "marker-color": "#6e1929",
+        "rgb": "RGBA(110, 25, 41, 1)"
+      },
+      "geometry": {
+        "coordinates": [-122.76946534460154, 44.46095017399705],
+        "type": "Point"
+      },
+      "id": 8
+    }
+  ]
+}

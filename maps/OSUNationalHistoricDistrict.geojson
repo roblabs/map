@@ -1,0 +1,1013 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-123.2799658, 44.5689999],
+          [-123.2750596, 44.567865],
+          [-123.2747695, 44.5677933],
+          [-123.2694628, 44.5664561],
+          [-123.2697404, 44.5658865],
+          [-123.2699954, 44.5653747],
+          [-123.2703597, 44.5646364],
+          [-123.2704053, 44.5646137],
+          [-123.2705975, 44.5646472],
+          [-123.2707454, 44.5646587],
+          [-123.271077, 44.5646569],
+          [-123.2729403, 44.5646364],
+          [-123.2742193, 44.5646314],
+          [-123.2752214, 44.564607],
+          [-123.2752174, 44.5641479],
+          [-123.275113, 44.5641508],
+          [-123.2751423, 44.562411],
+          [-123.2796749, 44.5624534],
+          [-123.2796832, 44.5621714],
+          [-123.2798019, 44.5618555],
+          [-123.2797832, 44.5607582],
+          [-123.2798162, 44.5607602],
+          [-123.2807374, 44.5607584],
+          [-123.2811539, 44.5607517],
+          [-123.2811771, 44.5620018],
+          [-123.2842794, 44.5620332],
+          [-123.2849066, 44.5620433],
+          [-123.2872221, 44.5620714],
+          [-123.2872214, 44.562213],
+          [-123.2868889, 44.5622115],
+          [-123.2868888, 44.562682],
+          [-123.2852864, 44.5626741],
+          [-123.2852882, 44.5632602],
+          [-123.2848547, 44.5632596],
+          [-123.2848449, 44.5652032],
+          [-123.2848415, 44.5668174],
+          [-123.2867582, 44.566818],
+          [-123.2867686, 44.5671685],
+          [-123.2869897, 44.5671697],
+          [-123.2869916, 44.5673724],
+          [-123.2867605, 44.5673735],
+          [-123.2867562, 44.5678439],
+          [-123.2854241, 44.5678532],
+          [-123.2854121, 44.5675247],
+          [-123.2848366, 44.5675272],
+          [-123.284849, 44.5678571],
+          [-123.2844877, 44.5678596],
+          [-123.2844538, 44.5678726],
+          [-123.2844224, 44.5678765],
+          [-123.2814422, 44.5678985],
+          [-123.279904, 44.5678966],
+          [-123.2799658, 44.5689999]
+        ]
+      },
+      "properties": {
+        "stroke": "#000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "stroke-dash": [1],
+        "fill": "#000",
+        "fill-opacity": 0.5
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-123.2799658, 44.5689999],
+          [-123.2750596, 44.567865],
+          [-123.2747695, 44.5677933],
+          [-123.2694628, 44.5664561],
+          [-123.2697404, 44.5658865],
+          [-123.2699954, 44.5653747],
+          [-123.2703597, 44.5646364],
+          [-123.2704053, 44.5646137],
+          [-123.2705975, 44.5646472],
+          [-123.2707454, 44.5646587],
+          [-123.271077, 44.5646569],
+          [-123.2729403, 44.5646364],
+          [-123.2742193, 44.5646314],
+          [-123.2752214, 44.564607],
+          [-123.2752174, 44.5641479],
+          [-123.275113, 44.5641508],
+          [-123.2751423, 44.562411],
+          [-123.2796749, 44.5624534],
+          [-123.2796832, 44.5621714],
+          [-123.2798019, 44.5618555],
+          [-123.2797832, 44.5607582],
+          [-123.2798162, 44.5607602],
+          [-123.2807374, 44.5607584],
+          [-123.2811539, 44.5607517],
+          [-123.2811771, 44.5620018],
+          [-123.2842794, 44.5620332],
+          [-123.2849066, 44.5620433],
+          [-123.2872221, 44.5620714],
+          [-123.2872214, 44.562213],
+          [-123.2868889, 44.5622115],
+          [-123.2868888, 44.562682],
+          [-123.2852864, 44.5626741],
+          [-123.2852882, 44.5632602],
+          [-123.2848547, 44.5632596],
+          [-123.2848449, 44.5652032],
+          [-123.2848415, 44.5668174],
+          [-123.2867582, 44.566818],
+          [-123.2867686, 44.5671685],
+          [-123.2869897, 44.5671697],
+          [-123.2869916, 44.5673724],
+          [-123.2867605, 44.5673735],
+          [-123.2867562, 44.5678439],
+          [-123.2854241, 44.5678532],
+          [-123.2854121, 44.5675247],
+          [-123.2848366, 44.5675272],
+          [-123.284849, 44.5678571],
+          [-123.2844877, 44.5678596],
+          [-123.2844538, 44.5678726],
+          [-123.2844224, 44.5678765],
+          [-123.2814422, 44.5678985],
+          [-123.279904, 44.5678966],
+          [-123.2799658, 44.5689999]
+        ]
+      },
+      "properties": {
+        "stroke": "#d73f09",
+        "stroke-width": 1.5,
+        "stroke-opacity": 1,
+        "stroke-dash": [1],
+        "fill": "#ff0000",
+        "fill-opacity": 0.99,
+        "title": ""
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merryfield Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1909",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.274203, 44.567549],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gilbert Hall Addition",
+        "description": "Oregon State University",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1980",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.27629873692382, 44.567450495242554],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Memorial Union",
+        "description": "Oregon State Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1928",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:selected": false
+      },
+      "geometry": {
+        "coordinates": [-123.278962, 44.5648026],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gill Coliseum",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1947",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.280532, 44.561303],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vet Dairy Barn",
+        "description": "Oregon State Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1930",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.28675, 44.56229],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lab Animal Resource Center",
+        "description": "Oregon State University",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1976",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.286224, 44.562405],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Veterinary Medicine Research Lab",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1951",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.285549, 44.562525],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dryden Hall",
+        "description": "Oregon State Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1928",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.285034, 44.562993],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McAlexander Field House",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1911",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.275389, 44.563307],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1960",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.283912, 44.563544],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cauthorn Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1957",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.2828043, 44.5636509],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Poling Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1957",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.2814666, 44.5636222],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Native American Longhouse",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1946",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.279551, 44.564051],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Weatherford Hall",
+        "description": "Oregon State Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1928",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.2804075, 44.5642121],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Langton Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1915",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.278328, 44.564117],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Snell Hall/MU East",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1958",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.276223, 44.564139],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Heckart Lodge",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1954",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.283401, 44.564224],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hawley Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1959",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.2828257, 44.5644547],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moreland Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1917",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.279417, 44.564262],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Waldo Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1907",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.2772442, 44.5640807],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Reed Lodge",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1954",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.283998, 44.5643],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buxton Hall",
+        "description": "Oregon State University",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1961",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.2814656, 44.564446],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gladys Valley Gymnastics Center",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1898",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.275249, 44.564889],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fairbanks Hall Art Gallery",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1892",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.2803853, 44.5650532],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Valley Library",
+        "description": "Oregon State University",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1962",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.276117, 44.565062],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Education Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1902",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.274074, 44.565149],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pharmacy",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1924",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.274812, 44.565234],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sackett Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1947",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.28349, 44.565238],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Strand Agriculture Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1913",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.277202, 44.565657],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Womens Building",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1926",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.280597, 44.565714],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nash Hall",
+        "description": "Oregon State University",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1969",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.282702, 44.566178],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benton Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1889",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.274319, 44.566195],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Milne Computer Center",
+        "description": "Oregon State University",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1969",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.27533, 44.566385],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gilmore Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1914",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.280536, 44.566432],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hovland Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1919",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.281319, 44.566449],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Milam Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1914",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.278854, 44.566456],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kidder Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1917",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.275834, 44.566483],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gilkey Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1913",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.277238, 44.56649],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "AG Life Sciences",
+        "description": "Oregon State University",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1992",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.281772, 44.566517],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gilmore Annex",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1947",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.280902, 44.566643],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mechanical Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1898",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.27319, 44.566976],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wiegand Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1949",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.285359, 44.566991],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Batcheller Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1913",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.275322, 44.567034],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kelley Engineering Center",
+        "description": "Oregon State University",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "2005",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.27879, 44.567044],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Owen Hall",
+        "description": "Oregon State University",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1985",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.273897, 44.567059],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bexell Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1922",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.277417, 44.567071],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Covell Hall",
+        "description": "Oregon State Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1927",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.274863, 44.567121],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gleeson Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1955",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.276705, 44.567133],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Withycombe Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1949",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.283446, 44.567159],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shepard Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1908",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.275995, 44.567167],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ballard Extension Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1920",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.279637, 44.56719],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cordley Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1956",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.281485, 44.567294],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dearborn Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1947",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.27563, 44.567335],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graf Hall",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1920",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.27491, 44.56765],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rogers Hall",
+        "description": "Oregon State University",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1967",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.275431, 44.567717],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plageman",
+        "description": "Oregon State Agricultural College ",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1936",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.278285, 44.56774],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Weniger Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1958",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.277502, 44.567874],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gilbert Hall",
+        "description": "Oregon State College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1939",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.27629, 44.568023],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ocean Administration Bldg",
+        "description": "Oregon Agricultural College",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:glyphText": "1926",
+        "mapkit:Annotation:type": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.279743, 44.568538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "National Historic District Boundary",
+        "description": "Src: OSU Foundation, University Facilities",
+        "marker-color": "#D73F09",
+        "mapkit:Annotation:type": "ImageAnnotation",
+        "mapkit:Annotation:selected": false,
+        "mapkit:Annotation:size": {
+          "width": 32,
+          "height": 32
+        },
+        "mapkit:Annotation:url": {
+          "1": "info.bubble.orange.png"
+        }
+      },
+      "geometry": {
+        "coordinates": [-123.271926, 44.564845],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oregon State National Historic District",
+        "description": "© 2026 — Rob Chohan Maps",
+        "mapkit:Annotation:type": "ImageAnnotation",
+        "mapkit:Annotation:selected": true,
+        "mapkit:Annotation:size": {
+          "width": 40,
+          "height": 40
+        },
+        "mapkit:Annotation:url": {
+          "1": "📍-48.png"
+        },
+        "marker-color": "#D73F09"
+      },
+      "geometry": {
+        "coordinates": [-123.286572, 44.564845],
+        "type": "Point"
+      }
+    }
+  ]
+}

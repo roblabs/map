@@ -1,0 +1,7 @@
+/**
+* Copyright © ePi Rational, Inc. All rights reserved.
+* See undefined/maps/license.md for additional license information.
+* build: Wed Jun 17 2026 15:40:47 GMT-0700 (Pacific Daylight Time)
+* osu@2026.6.8 #6f29aa0
+*/
+import{n as e,t}from"./token-D5_eC6oK.js";var n,r;t().then(async t=>{r=await e({token:t,language:`es`,libraries:[`map`,`services`,`overlays`,`annotations`]});let n=r.AddressFilter.including([r.AddressCategory.Locality]);new r.Search({addressFilter:n}).search(`Corvallis`,i)});var i=(e,t)=>{let i=t.places[0].coordinate,a=new r.CoordinateSpan(.02,.02),o=new r.CoordinateRegion(i,a);n=new r.Map(`container`,{region:o});let s=new r.CoordinateSpan(.01,.01),c=new r.CoordinateRegion(i,a),l=i.longitude-s.longitudeDelta,u=i.longitude+s.longitudeDelta,d=i.latitude-s.latitudeDelta,f=i.latitude+s.latitudeDelta,p=[new r.Coordinate(d,l),new r.Coordinate(d,u),new r.Coordinate(f,u),new r.Coordinate(f,l)],m=new r.Style({lineWidth:2,strokeColor:`#FF0000`,fillColor:null});n.addOverlay(new r.PolygonOverlay(p,{style:m})),new r.Search({region:c,regionPriority:r.Search.RegionPriority.Required}).search(`coffee`,(e,t)=>{for(let e of t.places){let t=new r.PlaceAnnotation(e);n.addAnnotation(t)}})};

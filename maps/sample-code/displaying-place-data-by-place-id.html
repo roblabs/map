@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" href="data:image/png;base64,iVBORw0KGgo=" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Displaying Place Data by Place ID</title>
+  <meta name="Description" content="This sample demonstrates looking up place data with a Place ID.">
+
+  <style>
+    .container {
+        display: grid;
+        grid-template-rows: max-content 1fr;
+        width: 100%;
+        height: 600px;
+    }
+    .container > :first-child {
+        margin: 1rem 0;
+        justify-self: center;
+    }
+    .container :is(#map, #detail) {
+        display: none;
+    }
+    .container:has(select[value=map]) #map,
+    .container:has(select[value=detail]) #detail {
+        display: block;
+        overflow: scroll;
+    }
+  </style>
+  <script type="module" crossorigin src="/maps/assets/displayingplacedatabyplaceid-BWA-8NjL.js"></script>
+  <link rel="modulepreload" crossorigin href="/maps/assets/token-D5_eC6oK.js">
+  <link rel="stylesheet" crossorigin href="/maps/assets/token-DRXadvmM.css">
+</head>
+
+<body>
+  
+  <div class="container">
+    <div>
+      <select name="display" id="display" value="map">
+        <option value="map">Map</option>
+        <option value="detail">Place Detail</option>
+      </select>
+    </div>
+    <div id="map"></div>
+    <div id="detail"></div>
+  </div>
+</body>
+
+</html>

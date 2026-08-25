@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff1234",
+        "stroke-width": 11,
+        "stroke-opacity": 1,
+        "stroke-dash": [5, 20],
+        "fill": "#ff1234",
+        "fill-opacity": 0.5,
+        "title": "Polygon",
+        "description": "PolygonPolygon"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-122.98243989324351, 49.10894940449424],
+            [-122.98243989324351, 27.566205228352345],
+            [-80.38225334236405, 27.566205228352345],
+            [-80.38225334236405, 49.10894940449424],
+            [-122.98243989324351, 49.10894940449424]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1234ff",
+        "title": "LineString",
+        "stroke-width": 5,
+        "stroke-dash": [30, 10],
+        "stroke-opacity": 22,
+        "marker-color": "",
+        "description": "LineStringLineString"
+      },
+      "geometry": {
+        "coordinates": [
+          [-67.66794237512335, 50.15083488106907],
+          [-126.47583235624597, 24.366928357698853]
+        ],
+        "type": "LineString"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Annotation",
+        "description": "PointPoint",
+        "mapkit:Annotation:accessibilityLabel": "Annotation accessibilityLabel",
+        "mapkit:Annotation:type": "Annotation",
+        "mapkit:Annotation:selected": true
+      },
+      "geometry": {
+        "coordinates": [-102.21489489948868, 40.39940605452219],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ImageAnnotation",
+        "description": "Src: OSU Foundation, University Facilities",
+        "mapkit:Annotation:type": "ImageAnnotation",
+        "mapkit:Annotation:accessibilityLabel": "ImageAnnotation accessibilityLabel",
+        "mapkit:Annotation:selected": false,
+        "mapkit:Annotation:url0": {
+          "1": "icon.png"
+        },
+        "mapkit:Annotation:url": {
+          "1": "info.bubble.orange.png"
+        },
+        "mapkit:Annotation:size": {
+          "width": 64,
+          "height": 64
+        }
+      },
+      "geometry": {
+        "coordinates": [-123.271926, 44.564845],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MarkerAnnotation",
+        "description": "Src: OSU Foundation, University Facilities",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:accessibilityLabel": "MarkerAnnotation accessibilityLabel",
+        "mapkit:Annotation:color": "use marker-color",
+        "mapkit:Annotation:glyphColor": "#663399",
+        "mapkit:Annotation:glyphText": "oSu",
+        "mapkit:Annotation:glyphImage": {
+          "1": "📍-48.png"
+        },
+        "mapkit:Annotation:selectedGlyphImage": {
+          "1": "info.bubble.orange.png"
+        },
+        "mapkit:Annotation:selected": false,
+        "marker-color": "#D73F09"
+      },
+      "geometry": {
+        "coordinates": [-117, 32.564845],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "14790 Moose Lake Rd",
+        "city": "Ely",
+        "state_zip": "MN 55731",
+        "description": "",
+        "url": "http://www.ntier.org",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:selected": "false",
+        "title": "Charles L. Sommers Canoe Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.494917, 47.989479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "city": "",
+        "state_zip": "",
+        "description": "",
+        "url": "http://www.ntier.org",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:selected": "false",
+        "title": "Donald Rogert Canoe Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.841214, 48.740965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "city": "",
+        "state_zip": "",
+        "description": "",
+        "url": "http://www.ntier.org",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:selected": "false",
+        "title": "Northern Expeditions Canoe Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.674334, 51.026774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "city": "",
+        "state_zip": "",
+        "description": "",
+        "url": "https://www.ontarioparks.com/park/quetico",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:selected": "false",
+        "title": "Prairie Portage Ranger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.43671, 48.051227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "city": "",
+        "state_zip": "",
+        "description": "",
+        "url": "",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:selected": "false",
+        "title": "Louisa Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.3654, 48.1311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "city": "",
+        "state_zip": "",
+        "description": "",
+        "url": "https://www.ontarioparks.com/park/quetico",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:selected": "false",
+        "title": "Cache Bay Ranger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.0117, 48.2119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "city": "",
+        "state_zip": "",
+        "description": "",
+        "url": "https://www.ontarioparks.com/park/quetico",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:selected": "false",
+        "title": "Lac La Croix Ranger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.132965, 48.371639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "",
+        "city": "",
+        "state_zip": "",
+        "description": "",
+        "url": "https://www.ontarioparks.com/park/quetico",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:selected": "false",
+        "title": "Beaverhouse Ranger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.049847, 48.539178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1393 MN-169",
+        "city": "Ely",
+        "state_zip": "MN 55731",
+        "description": "",
+        "url": "https://www.fs.usda.gov/recarea/superior/recreation/recarea?recid=37021&actid=31",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:selected": "false",
+        "title": "Kawishiwi Ranger District & Customs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.829717, 47.906841]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "PointPoint",
+        "mapkit:Annotation:accessibilityLabel": "Annotation accessibilityLabel",
+        "mapkit:Annotation:type": "Annotation",
+        "mapkit:Annotation:selected": true,
+        "title": "Annotation"
+      },
+      "geometry": {
+        "coordinates": [-102.21489489948868, 40.39940605452219],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Src: OSU Foundation, University Facilities",
+        "mapkit:Annotation:type": "ImageAnnotation",
+        "mapkit:Annotation:accessibilityLabel": "ImageAnnotation accessibilityLabel",
+        "mapkit:Annotation:selected": "false",
+        "mapkit:Annotation:url0": {
+          "1": "icon.png"
+        },
+        "mapkit:Annotation:url": {
+          "1": "info.bubble.orange.png"
+        },
+        "mapkit:Annotation:size": {
+          "width": 64,
+          "height": 64
+        },
+        "title": "ImageAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-123.271926, 44.564845],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Src: OSU Foundation, University Facilities",
+        "mapkit:Annotation:type": "MarkerAnnotation",
+        "mapkit:Annotation:accessibilityLabel": "MarkerAnnotation accessibilityLabel",
+        "mapkit:Annotation:color": "use marker-color",
+        "mapkit:Annotation:glyphColor": "#663399",
+        "mapkit:Annotation:glyphText": "oSu",
+        "mapkit:Annotation:glyphImage": {
+          "1": "📍-48.png"
+        },
+        "mapkit:Annotation:selectedGlyphImage": {
+          "1": "info.bubble.orange.png"
+        },
+        "mapkit:Annotation:selected": false,
+        "marker-color": "#D73F09",
+        "title": "MarkerAnnotation"
+      },
+      "geometry": {
+        "coordinates": [-117, 32.564845],
+        "type": "Point"
+      }
+    }
+  ]
+}

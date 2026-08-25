@@ -1,0 +1,601 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bear Canyon Overlook"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.6615,
+          33.0245
+        ],
+        "type": "Point"
+      },
+      "id": "044598e6f82c093a40eed9bdfdce131e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Powerlines"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.639833,
+          32.834833
+        ],
+        "type": "Point"
+      },
+      "id": "06f344b95c1916ec2f5a39db5e03b61a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willow Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.66058,
+          35.869732
+        ],
+        "type": "Point"
+      },
+      "id": "0ea6504e5514ed0c71557d4acc9ee453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catfish Cove (AZ side)"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.68739,
+          33.082822
+        ],
+        "type": "Point"
+      },
+      "id": "0f1ef15081eef896b57d9fffe4fd19c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Dock"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.617296,
+          33.026116
+        ],
+        "type": "Point"
+      },
+      "id": "135573c82759d9e354967179e11cd7d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Chute"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.730038,
+          35.949211
+        ],
+        "type": "Point"
+      },
+      "id": "137a47a01ff7025709a401c6a5d78b0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boy Scout Canyon"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.744652,
+          35.984675
+        ],
+        "type": "Point"
+      },
+      "id": "1cd6f23dd7daf3faa50037afbd3c686b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lighthouse Rock"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.682014,
+          33.144567
+        ],
+        "type": "Point"
+      },
+      "id": "3288aba7ecd8d4a0ae194ea29894e683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paddlewheeler Boat-in Camp",
+        "icon": "campsite-black-24"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.655858,
+          33.03456
+        ],
+        "type": "Point"
+      },
+      "id": "336b788857a8eed2f37919b408cd25a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Pass Rd. intersects with Inter-Park Rd"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.683166,
+          33.051666
+        ],
+        "type": "Point"
+      },
+      "id": "41634a494b3b8ae4bc0babd0f6c3fba3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor Lake Camp"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.637333,
+          33.028833
+        ],
+        "type": "Point"
+      },
+      "id": "434d29764308d9cc618990e068482344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liberty Bell Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.72415,
+          35.975007
+        ],
+        "type": "Point"
+      },
+      "id": "4472a329306213ef6bb26a2fe0ad48d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picacho State Recreation Area",
+        "url": "campsite-black-24",
+        "icon": "information-black-24"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.617684,
+          33.023103
+        ],
+        "type": "Point"
+      },
+      "id": "4912aa690b96a174d166a873c775343d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Sand Bar"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.708619,
+          35.92822
+        ],
+        "type": "Point"
+      },
+      "id": "4f013b0fb4b3acf20eeb2d6febc3ff3b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor Lake Overlook"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.640333,
+          33.031
+        ],
+        "type": "Point"
+      },
+      "id": "6baa54f16408f01938d4c65325639fc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donald Duck Overlook"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.650333,
+          33.032166
+        ],
+        "type": "Point"
+      },
+      "id": "6c8bbcaa11d35316adc735bea7ad1686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mouth of Carrizo Wash"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.672266,
+          33.039229
+        ],
+        "type": "Point"
+      },
+      "id": "7f0ee542f4b6bae5b93465683525d020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ringbolt Rapids"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.729605,
+          35.961485
+        ],
+        "type": "Point"
+      },
+      "id": "838f6b049daee9ebb1cbff01c6ee5fba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Para Wash (midwash)"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.689467,
+          33.063145
+        ],
+        "type": "Point"
+      },
+      "id": "88619924cfa4fa32413245b90bf5687c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picacho Mine Entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.635833,
+          32.966833
+        ],
+        "type": "Point"
+      },
+      "id": "896794757283d064cf60c18ceec1eb4d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyduke Mine Rd. Intersection"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.634107,
+          32.993576
+        ],
+        "type": "Point"
+      },
+      "id": "90948258b3f871443228f4a010eb44c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4-S Beach Camp"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.675471,
+          33.056039
+        ],
+        "type": "Point"
+      },
+      "id": "97f49f5a52d7c41e7fad702f4dc0aaaa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrizo Boat-in Camp",
+        "icon": "campsite-black-24"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.669751,
+          33.036433
+        ],
+        "type": "Point"
+      },
+      "id": "9d6505b5a0de6814769bc4c7ef1243b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outpost Camp"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.68731,
+          33.069348
+        ],
+        "type": "Point"
+      },
+      "id": "a6b630d0acd726e41f88a8aa7d4008df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor Lake",
+        "icon": "campsite-black-24"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.637238,
+          33.02925
+        ],
+        "type": "Point"
+      },
+      "id": "a6bf73256fc2b56288f861deb53c4142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "10300 Imperial Dam Rd, Wellton, Arizona 85356, United States",
+        "name": "Hidden Shores RV Park",
+        "url": "http://www.hiddenshores.com"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.456317,
+          32.886462
+        ],
+        "type": "Point"
+      },
+      "id": "address.8806040547784940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "All-American Canal"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.613666,
+          32.798166
+        ],
+        "type": "Point"
+      },
+      "id": "b3f291edba9f83c1ec03cce7947c2f99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Narrows"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.636,
+          32.979833
+        ],
+        "type": "Point"
+      },
+      "id": "b6372ed6012912c5173c460bc69054b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paddlewheeler Boat-In Camp"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.655666,
+          33.047666
+        ],
+        "type": "Point"
+      },
+      "id": "c35725bd753757efd3dbf9842af56732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picacho Dump"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.6215,
+          32.812166
+        ],
+        "type": "Point"
+      },
+      "id": "c6f1b55193e89df85656cb7134786aaa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Rock Canyon"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.728428,
+          35.963612
+        ],
+        "type": "Point"
+      },
+      "id": "c7154ec86b773a3b91b2e90b87152ad9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Dock"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.611388,
+          33.025042
+        ],
+        "type": "Point"
+      },
+      "id": "c747098ab627baea31456186dfeeb7cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Office"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.615886,
+          33.022628
+        ],
+        "type": "Point"
+      },
+      "id": "d154cf95de8a5ed52d91e5e6c9ba34fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paddlewheeler Boat-In Camp"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.655666,
+          33.047666
+        ],
+        "type": "Point"
+      },
+      "id": "d5e5d2dfc51fd07fd9714bc5466f1f87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name1": "Hoge Ranch"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.67158,
+          33.055339
+        ],
+        "type": "Point"
+      },
+      "id": "dc7d13aa9fb0e7abfe8ba500768e5e0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cranes Nest Rapids"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.706764,
+          35.909816
+        ],
+        "type": "Point"
+      },
+      "id": "e9be3e5c871438621e5d00b5ad44060d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitley Bridge",
+        "description": "A natural Arch"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.580672,
+          33.003858
+        ],
+        "type": "Point"
+      },
+      "id": "ed390ffd96758e94c8fa97de3fc5131a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julian Bluffs"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.703811,
+          33.086126
+        ],
+        "type": "Point"
+      },
+      "id": "efc0e1144cb6f9d99c2e56a3d8dc6440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horseshoe Rapids"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.708521,
+          35.917608
+        ],
+        "type": "Point"
+      },
+      "id": "efdfa999f753b8cd7325d5fe9c25f9fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Precipice Bend"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.501294,
+          32.96596
+        ],
+        "type": "Point"
+      },
+      "id": "f40f28c1169be1a3314b5e4c1e9e0382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ski Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.631833,
+          33.0355
+        ],
+        "type": "Point"
+      },
+      "id": "f77192e6bae669e4e693bcfc963faa90"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nortons Landing"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.644242,
+          33.052986
+        ],
+        "type": "Point"
+      },
+      "id": "ff30b960b065d9a84750a5eb393e4e79"
+    }
+  ],
+  "type": "FeatureCollection"
+}
